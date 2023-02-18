@@ -1,0 +1,2 @@
+# scatter_by_matplotlib
+用matplotlib画散点图
